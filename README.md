@@ -21,10 +21,10 @@ cd ..
 ```
 ## Results
 Initial allignment of the pointclouds: <br/>
-![init](http://server.seva-hul.com/media/IFRoS/SensFusion/init.jpg)<br/>
+![init](https://github.com/sevahul/sens-fusion-assignment-3/blob/main/media/init.jpg)<br/>
 Naive ICP:<br/>
-![icp](http://server.seva-hul.com/media/IFRoS/SensFusion/naive.jpg)<br/>
+![icp](https://github.com/sevahul/sens-fusion-assignment-3/blob/main/media/naive.jpg)<br/>
 Trimmed ICP:<br/>
-![icp](http://server.seva-hul.com/media/IFRoS/SensFusion/trimmed.jpg)<br/>
+![icp](https://github.com/sevahul/sens-fusion-assignment-3/blob/main/media/trimmed.jpg)<br/>
 
 
